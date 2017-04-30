@@ -8,7 +8,7 @@ Installation
 
 Add to .vimrc:
 
-    Bundle 'chilicuil/vim-colors'
+    Bundle 'chilicuil/colors.vim'
 
 And install it with:
 
